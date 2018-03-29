@@ -1,7 +1,7 @@
 /**app.wxss**/
 text{
     font-family: MicroSoft Yahei;
-    font-size: 24rpx;
+    font-size: 20rpx;
     color: #666;
 }
 
